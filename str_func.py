@@ -7,3 +7,5 @@ def str_title(words):
     """Функция возвращает первые буквы слов в верхнем регистре"""
     return words.title()
 
+
+print(str_title("words, strings, text"))
